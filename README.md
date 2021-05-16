@@ -1,4 +1,4 @@
-# Combinações-no-teclado-para-Windows-10
+# Combinações no teclado para Windows 10
 
     Bloquear computador: Windows + L
     Minimizar o(s) programa(s) aberto(s): Windows + M
