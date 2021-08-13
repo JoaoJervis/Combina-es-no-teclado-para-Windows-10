@@ -5,3 +5,4 @@
     Screenshot: Windows + Alt + PrtScn
     Create a new browser tab: Ctrl + T
     Close a tab in browser: Ctrl + W
+    Switch to next tab in browser: Ctrl + Tab
